@@ -1,6 +1,6 @@
 {
   "name": "@iterables/take",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Take a number of elements from an iterable.",
   "main": "iterables-take.js",
   "scripts": {
